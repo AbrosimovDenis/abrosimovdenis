@@ -14,4 +14,4 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=42aaff)](https://t.me/soulwaxx)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=ffffff)](www.linkedin.com/in/daabrosimov)
 [![Vkontakte](https://img.shields.io/badge/-Vk-090909?style=for-the-badge&logo=Vk&logoColor=3333ff)](https://vk.com/id104170512)
-[![MAIL](https://img.shields.io/badge/-mail-090909?style=for-the-badge&logo=gmail&logoColor=ffffff)](https://mail.yandex.ru/compose?mailto=hetzernfs@yandex.ru)
+[![MAIL](https://img.shields.io/badge/-mail-090909?style=for-the-badge&logo=gmail&logoColor=ffffff)](https://mail.yandex.ru/compose?mailto=daxabrosimov@yandex.ru)
