@@ -21,7 +21,19 @@
 - Уровни, методы, виды, принципы, цели тестирования, SDLC, STLC
 
 ### Примеры тестовых артефактов:   
+[Mindmap](https://drive.google.com/file/d/1bmAeOTqzCenFlYLz4TaDezcVjKXPWFD2/view?usp=sharing)
 
+[Тест-кейсы](https://docs.google.com/spreadsheets/d/1-S6PYbcpNF_i1NYyz75UEAUMLUm0W6Uu_WlUCg6xwV8/edit?usp=sharing)
+
+[Проверка валидации](https://docs.google.com/spreadsheets/d/16wXjCsUfuuVWcfPZgtSqG87P51ia7GIRPVGYAEtnJxs/edit?usp=sharing)
+
+[Чек-лист](https://docs.google.com/spreadsheets/d/1sjhK73AWSHzwHUICAEJf4URp1YGydmQ44N0eQ6nl4cQ/edit?usp=sharing)
+
+[Чек-лист API](https://docs.google.com/spreadsheets/d/1KFENqtNwmzMCZKkO1CbTCt4-bH1Mxk7YU_8llv9O1Us/edit?usp=sharing)
+
+[Баг-репорт](https://drive.google.com/file/d/1XuXJSoW9gT0s9Se2_lFP9iYZzXOBZdvN/view?usp=share_link)
+
+[Баг-репорт API](https://drive.google.com/file/d/1QNYr0m9ZS-gS4ILyXJIxhkQ90sfhLbAt/view?usp=share_link)
 
 ### Образование:
 
